@@ -8,10 +8,10 @@
     "lint:fix": "npm bin && standard --fix .",
     "test": "npm run lint"
   },
-  "author": "Jimmy Huang <victor0801x@gmail.com>",
+  "author": "jimmyolo <victor0801x@gmail.com>",
   "devDependencies": {
     "snazzy": "^9.0.0",
-    "standard": "^16.0.3",
-    "tap": "^14.11.0"
+    "standard": "^17.1.2",
+    "tap": "^21.1.0"
   }
 }
